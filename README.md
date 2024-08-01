@@ -43,7 +43,7 @@ Certifique-se de ter os seguintes softwares instalados em seu ambiente de desenv
    Clone o repositório do projeto para sua máquina local usando o Git. Abra o terminal e execute o seguinte comando:
 
    ```bash
-   git clone <URL-do-repositorio>
+   git clone <(https://github.com/SenaFernando/Backend.git)>
 
 2. **Instale as dependências PHP**
 
